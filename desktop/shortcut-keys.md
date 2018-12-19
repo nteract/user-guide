@@ -1,4 +1,6 @@
-# nteract Keyboard Shortcuts
+# Keyboard Shortcuts
+
+## nteract Desktop
 
 | Feature                          | nteract Desktop                                 |
 |----------------------------------|-------------------------------------------------|
