@@ -1,7 +1,6 @@
 # nteract Keyboard Shortcuts
 
-|                                  |  nteract Desktop  |
-| Feature                          | Default Binding                                 |
+| Feature                          | nteract Desktop                                 |
 |----------------------------------|-------------------------------------------------|
 | Auto-complete                    | Ctrl + Space                                    |
 | Additional information (Python)  | Ctrl + .                                        |
